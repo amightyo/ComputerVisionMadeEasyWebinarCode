@@ -6,9 +6,11 @@ by Avi Nehemiah
 
 Description:	
 
-	Demo files from the "Computer Vision Made Easy" webinar. Files include images and video used in webinar.
+	Demo files from the "Computer Vision Made Easy" webinar. 
+	Files include images and video used in webinar.
 
 MATLAB release:
+
  	MATLAB 8.2 (R2013b) 
 
 
